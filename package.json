@@ -1,0 +1,26 @@
+{
+  "name": "jest-presentation",
+  "version": "1.0.0",
+  "description": "Material for Jest meet up",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/http/asd%3Blfkj.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "unit",
+    "end-to-end"
+  ],
+  "author": "Serhii Ivanchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/http/asd%3Blfkj/issues"
+  },
+  "homepage": "https://github.com/http/asd%3Blfkj#readme",
+  "devDependencies": {}
+}
